@@ -1,13 +1,12 @@
-# CLAUDE.MD -- Empirical Economics Research with Claude Code
+# CLAUDE.MD -- Competencia Digital Docente en la Formación Inicial del Profesorado
 
-<!-- HOW TO USE: Replace [BRACKETED PLACEHOLDERS] with your project info.
-     Customize Beamer environments for your talk preamble.
-     Keep this file under ~150 lines — Claude loads it every session.
-     See the guide at https://hugosantanna.github.io/clo-author/ for full documentation. -->
+<!-- See the guide at https://hugosantanna.github.io/clo-author/ for full documentation. -->
 
-**Project:** [YOUR PROJECT NAME]
-**Institution:** [YOUR INSTITUTION]
-**Field:** [YOUR FIELD — Economics by default. Can be adapted to Finance, Accounting, Marketing, etc.]
+**Project:** Competencia Digital Docente en la formación inicial de los futuros docentes de Educación Infantil y Primaria — análisis curricular
+**Institution:** [TO FILL — usuario, indicar universidad / facultad]
+**Field:** Teacher Education / Educational Technology — TDC (DigCompEdu + MRCDD)
+**Frameworks of reference:** DigCompEdu (Redecker & Punie, 2017) + MRCDD (INTEF/BOE 2022)
+**Working language:** Spanish (paper); English (some sources, drafts may be bilingual)
 **Branch:** main
 
 ---
@@ -134,7 +133,8 @@ Output organization: by-script
 
 | Component | File | Status | Description |
 |-----------|------|--------|-------------|
-| Paper | `paper/main.tex` | [draft/submitted/R&R] | [Brief description] |
-| Data | `scripts/R/` | [complete/in-progress] | [Analysis description] |
-| Replication | `paper/replication/` | [not started/ready] | [Deposit status] |
-| Job Market Talk | `paper/talks/job_market_talk.tex` | -- | [Status] |
+| Discovery | `quality_reports/literature/cdd_formacion_inicial/` | in-progress | Bilingual ES/EN literature review on TDC in initial teacher training |
+| Strategy | `quality_reports/strategy_*.md` | not started | Curricular analysis design (memorias de verificación + guías docentes) |
+| Data | `data/raw/` | not started | Curricular documents to be collected (ANECA / RUCT / university websites) |
+| Paper | `paper/main.tex` | not started | — |
+| Replication | `paper/replication/` | not started | — |
