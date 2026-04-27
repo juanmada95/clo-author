@@ -1,0 +1,43 @@
+Reproducibility check -- Tier B sample selection
+================================================
+Seed: numpy.random.default_rng(seed=20240901)
+Inventory file:  data/cleaned/corpus_inventory.csv
+Inventory size:  174 programmes
+Target N (PAP):  60
+Min per cell-in-sample: 2
+Active cells (universe): 34
+Cells in sample:         30
+Cells dropped from sample: 4
+Min-feasible N if every active cell received min-2: 67
+Realised N:      60
+
+NOTE: With 34 active cells, strict min-2-per-active-cell would force N >= 67. To deliver TARGET_N=60 (PAP), 4 low-information cells were dropped from the sample (cell_size_sample=0 in tier_b_strata_table.csv). The min-2 rule holds for every cell that receives any draw. Programmes in dropped cells remain in the universe inventory but are not in this Tier B sample. This is documented in the strata table for full transparency.
+
+First 5 sampled programme_ids (for PAP quotation):
+  1. P0003  |  Centro de Estudios Universitarios Cardenal Spinola CEU  |  adscrito  |  Andalucia  |  presencial  |  infantil
+  2. P0004  |  Centro Universitario CEU Andalucia  |  adscrito  |  Andalucia  |  presencial  |  primaria
+  3. P0009  |  Centro Universitario EUSES  |  adscrito  |  Cataluna  |  presencial  |  primaria
+  4. P0011  |  Centro Universitario Salesiano de Sarria  |  adscrito  |  Cataluna  |  presencial  |  primaria
+  5. P0018  |  Centro de Ensenanza Superior Don Bosco  |  adscrito  |  Madrid  |  presencial  |  infantil
+
+To verify reproducibility: re-run scripts/python/strategy/tier_b_sample.py from a clean Python session against the SAME corpus_inventory.csv. The same 60 programme IDs must be produced (the algorithm is fully deterministic given the seed and the sorted inventory).
+
+REPRODUCIBILITY CHAIN
+
+The deposit artifacts (corpus_inventory.csv, tier_b_sample_ids.csv,
+tier_b_strata_table.csv) are byte-reproducible from THIS frozen
+corpus_inventory.csv with seed 20240901 and numpy 2.4.4 on Python 3.11+.
+Re-running tier_b_sample.py from this exact corpus_inventory.csv on a
+different machine will produce identical 60 IDs.
+
+The deposit is NOT byte-reproducible end-to-end from raw scrape, because:
+1. RUCT scrape returned 0 rows on 2026-04-27 (JS-rendered pagination);
+   future runs may succeed and add ~10-30 codigo_ruct values.
+2. ANECA / educaweb / autonomous-community agency HTML drifts over time
+   (institutions added, removed, restructured between academic years).
+3. Live HTTP fetches are subject to network conditions, TLS cert refresh,
+   and rate limiting.
+
+The frozen corpus_inventory.csv (committed at deposit time) is the
+authoritative anchor for all downstream analysis. Future scrapes are
+documented as deviations in PAP Section 10.

@@ -3,7 +3,7 @@
 <!-- See the guide at https://hugosantanna.github.io/clo-author/ for full documentation. -->
 
 **Project:** Competencia Digital Docente en la formación inicial de los futuros docentes de Educación Infantil y Primaria — análisis curricular
-**Institution:** [TO FILL — usuario, indicar universidad / facultad]
+**Institution:** [ANONYMIZED — single institution shared by all four authors; full name pending OSF deposit]
 **Field:** Teacher Education / Educational Technology — TDC (DigCompEdu + MRCDD)
 **Frameworks of reference:** DigCompEdu (Redecker & Punie, 2017) + MRCDD (INTEF/BOE 2022)
 **Working language:** Spanish (paper); English (some sources, drafts may be bilingual)

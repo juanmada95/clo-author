@@ -1,0 +1,7 @@
+source,agency,degree,university_name,ccaa,sector_hint,modality_hint,fetch_ts,url
+unibasq_live_probe,UNIBASQ,infantil,Universidad del Pais Vasco / Euskal Herriko Unibertsitatea,Pais Vasco,public,presencial,2026-04-27T10:07:57.608010+00:00,https://www.unibasq.eus/
+unibasq_live_probe,UNIBASQ,primaria,Universidad del Pais Vasco / Euskal Herriko Unibertsitatea,Pais Vasco,public,presencial,2026-04-27T10:07:57.608010+00:00,https://www.unibasq.eus/
+unibasq_live_probe,UNIBASQ,infantil,Universidad de Deusto,Pais Vasco,public,presencial,2026-04-27T10:07:57.608010+00:00,https://www.unibasq.eus/
+unibasq_live_probe,UNIBASQ,primaria,Universidad de Deusto,Pais Vasco,public,presencial,2026-04-27T10:07:57.608010+00:00,https://www.unibasq.eus/
+unibasq_live_probe,UNIBASQ,infantil,Mondragon Unibertsitatea,Pais Vasco,private-traditional,presencial,2026-04-27T10:07:57.608010+00:00,https://www.unibasq.eus/
+unibasq_live_probe,UNIBASQ,primaria,Mondragon Unibertsitatea,Pais Vasco,private-traditional,presencial,2026-04-27T10:07:57.608010+00:00,https://www.unibasq.eus/

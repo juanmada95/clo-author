@@ -1,0 +1,61 @@
+programme_id,codigo_ruct,university_name,sector,ccaa,modality,degree,centro,fallback_flag
+P0003,,Centro de Estudios Universitarios Cardenal Spinola CEU,adscrito,Andalucia,presencial,infantil,Centro de Estudios Universitarios Cardenal Spinola CEU,cross_validation_only
+P0004,,Centro Universitario CEU Andalucia,adscrito,Andalucia,presencial,primaria,Centro Universitario CEU Andalucia,cross_validation_only
+P0009,,Centro Universitario EUSES,adscrito,Cataluna,presencial,primaria,Centro Universitario EUSES,cross_validation_only
+P0011,,Centro Universitario Salesiano de Sarria,adscrito,Cataluna,presencial,primaria,Centro Universitario Salesiano de Sarria,cross_validation_only
+P0018,,Centro de Ensenanza Superior Don Bosco,adscrito,Madrid,presencial,infantil,Centro de Ensenanza Superior Don Bosco,cross_validation_only
+P0027,,Centro de Ensenanza Superior Don Bosco,adscrito,Madrid,presencial,primaria,Centro de Ensenanza Superior Don Bosco,cross_validation_only
+P0029,,Universidad Isabel I,private-online,Castilla y Leon,online,infantil,,cross_validation_only
+P0031,,Universidad Isabel I,private-online,Castilla y Leon,online,primaria,,cross_validation_only
+P0034,,Universidad Internacional de La Rioja (UNIR),private-online,La Rioja,online,infantil,,cross_validation_only
+P0035,,Universidad Internacional de La Rioja (UNIR),private-online,La Rioja,online,primaria,,cross_validation_only
+P0036,,Universidad a Distancia de Madrid (UDIMA),private-online,Madrid,online,infantil,,cross_validation_only
+P0037,,Universidad a Distancia de Madrid (UDIMA),private-online,Madrid,online,primaria,,cross_validation_only
+P0038,,Universidad Loyola Andalucia,private-traditional,Andalucia,presencial,infantil,,cross_validation_only
+P0039,,Universidad Loyola Andalucia,private-traditional,Andalucia,presencial,primaria,,cross_validation_only
+P0040,,Universidad San Jorge,private-traditional,Aragon,presencial,infantil,,cross_validation_only
+P0041,,Universidad San Jorge,private-traditional,Aragon,presencial,primaria,,cross_validation_only
+P0042,,Universidad del Atlantico Medio,private-traditional,Canarias,presencial,infantil,,cross_validation_only
+P0043,,Universidad del Atlantico Medio,private-traditional,Canarias,presencial,primaria,,cross_validation_only
+P0045,,Universidad Pontificia de Salamanca,private-traditional,Castilla y Leon,presencial,infantil,,cross_validation_only
+P0047,,Universidad Pontificia de Salamanca,private-traditional,Castilla y Leon,presencial,primaria,,cross_validation_only
+P0049,,Universitat Internacional de Catalunya (UIC),private-traditional,Cataluna,presencial,infantil,,cross_validation_only
+P0052,,Universitat Internacional de Catalunya (UIC),private-traditional,Cataluna,presencial,primaria,,cross_validation_only
+P0056,,Universidad Europea de Valencia,private-traditional,Comunitat Valenciana,presencial,infantil,,cross_validation_only
+P0057,,Universidad CEU Cardenal Herrera,private-traditional,Comunitat Valenciana,presencial,primaria,,cross_validation_only
+P0061,,Universidad Antonio de Nebrija,private-traditional,Madrid,presencial,infantil,,cross_validation_only
+P0071,,Universidad Camilo Jose Cela,private-traditional,Madrid,presencial,primaria,,cross_validation_only
+P0076,,Universidad de Navarra,private-traditional,Navarra,presencial,infantil,,cross_validation_only
+P0077,,Universidad de Navarra,private-traditional,Navarra,presencial,primaria,,cross_validation_only
+P0078,,Mondragon Unibertsitatea,private-traditional,Pais Vasco,presencial,infantil,,cross_validation_only
+P0079,,Universidad de Deusto,private-traditional,Pais Vasco,presencial,infantil,,cross_validation_only
+P0089,,Universidad de Sevilla,public,Andalucia,presencial,infantil,,cross_validation_only
+P0096,,Universidad de Malaga,public,Andalucia,presencial,primaria,,cross_validation_only
+P0098,,Universidad de Zaragoza,public,Aragon,presencial,infantil,,cross_validation_only
+P0099,,Universidad de Zaragoza,public,Aragon,presencial,primaria,,cross_validation_only
+P0100,,Universidad de Oviedo,public,Asturias,presencial,infantil,,cross_validation_only
+P0101,,Universidad de Oviedo,public,Asturias,presencial,primaria,,cross_validation_only
+P0104,,Universidad de La Laguna,public,Canarias,presencial,primaria,,cross_validation_only
+P0105,,Universidad de Las Palmas de Gran Canaria,public,Canarias,presencial,primaria,,cross_validation_only
+P0106,,Universidad de Cantabria,public,Cantabria,presencial,infantil,,cross_validation_only
+P0107,,Universidad de Cantabria,public,Cantabria,presencial,primaria,,cross_validation_only
+P0114,,Universidad de Salamanca,public,Castilla y Leon,presencial,primaria,,cross_validation_only
+P0115,,Universidad de Valladolid,public,Castilla y Leon,presencial,primaria,,cross_validation_only
+P0116,,Universidad de Castilla-La Mancha,public,Castilla-La Mancha,presencial,infantil,,cross_validation_only
+P0117,,Universidad de Castilla-La Mancha,public,Castilla-La Mancha,presencial,primaria,,cross_validation_only
+P0118,,Universitat Oberta de Catalunya (UOC),public,Cataluna,online,infantil,,cross_validation_only
+P0119,,Universitat Oberta de Catalunya (UOC),public,Cataluna,online,primaria,,cross_validation_only
+P0121,,Universitat Politecnica de Catalunya,public,Cataluna,presencial,infantil,,cross_validation_only
+P0127,,Universitat de Vic - UCC,public,Cataluna,presencial,infantil,,cross_validation_only
+P0138,,Universitat Jaume I,public,Comunitat Valenciana,presencial,infantil,,cross_validation_only
+P0139,,Universitat Politecnica de Valencia,public,Comunitat Valenciana,presencial,infantil,,cross_validation_only
+P0148,,Universidade da Coruna,public,Galicia,presencial,infantil,,cross_validation_only
+P0151,,Universidade da Coruna,public,Galicia,presencial,primaria,,cross_validation_only
+P0154,,Universitat de les Illes Balears,public,Illes Balears,presencial,infantil,,cross_validation_only
+P0155,,Universitat de les Illes Balears,public,Illes Balears,presencial,primaria,,cross_validation_only
+P0166,,Universidad Politecnica de Madrid,public,Madrid,presencial,primaria,,cross_validation_only
+P0167,,Universidad Rey Juan Carlos,public,Madrid,presencial,primaria,,cross_validation_only
+P0171,,Universidad Publica de Navarra,public,Navarra,presencial,infantil,,cross_validation_only
+P0172,,Universidad Publica de Navarra,public,Navarra,presencial,primaria,,cross_validation_only
+P0173,,Universidad del Pais Vasco / Euskal Herriko Unibertsitatea,public,Pais Vasco,presencial,infantil,,cross_validation_only
+P0174,,Universidad del Pais Vasco / Euskal Herriko Unibertsitatea,public,Pais Vasco,presencial,primaria,,cross_validation_only

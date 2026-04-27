@@ -1,0 +1,35 @@
+sector,ccaa,modality,cell_size_universe,cell_size_sample,sampling_fraction,dropped_for_n60
+adscrito,Andalucia,presencial,6,2,0.3333,False
+adscrito,Cataluna,presencial,5,2,0.4,False
+adscrito,Madrid,presencial,17,2,0.1176,False
+private-online,Castilla y Leon,online,3,2,0.6667,False
+private-online,Comunitat Valenciana,online,2,0,0.0,True
+private-online,La Rioja,online,2,2,1.0,False
+private-online,Madrid,online,2,2,1.0,False
+private-traditional,Andalucia,presencial,2,2,1.0,False
+private-traditional,Aragon,presencial,2,2,1.0,False
+private-traditional,Canarias,presencial,2,2,1.0,False
+private-traditional,Castilla y Leon,presencial,4,2,0.5,False
+private-traditional,Cataluna,presencial,6,2,0.3333,False
+private-traditional,Comunitat Valenciana,presencial,6,2,0.3333,False
+private-traditional,Madrid,presencial,16,2,0.125,False
+private-traditional,Navarra,presencial,2,2,1.0,False
+private-traditional,Pais Vasco,presencial,4,2,0.5,False
+public,Andalucia,presencial,16,2,0.125,False
+public,Aragon,presencial,2,2,1.0,False
+public,Asturias,presencial,2,2,1.0,False
+public,Canarias,presencial,4,2,0.5,False
+public,Cantabria,presencial,2,2,1.0,False
+public,Castilla y Leon,presencial,8,2,0.25,False
+public,Castilla-La Mancha,presencial,2,2,1.0,False
+public,Cataluna,online,2,2,1.0,False
+public,Cataluna,presencial,16,2,0.125,False
+public,Comunitat Valenciana,presencial,10,2,0.2,False
+public,Extremadura,presencial,2,0,0.0,True
+public,Galicia,presencial,6,2,0.3333,False
+public,Illes Balears,presencial,2,2,1.0,False
+public,Madrid,online,1,0,0.0,True
+public,Madrid,presencial,12,2,0.1667,False
+public,Murcia,presencial,2,0,0.0,True
+public,Navarra,presencial,2,2,1.0,False
+public,Pais Vasco,presencial,2,2,1.0,False

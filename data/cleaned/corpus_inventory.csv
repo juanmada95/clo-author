@@ -1,0 +1,175 @@
+programme_id,codigo_ruct,university_name,sector,ccaa,modality,degree,centro,sources,sources_count,ruct_anchored,fallback_flag
+P0001,,Centro Universitario CEU Andalucia,adscrito,Andalucia,presencial,infantil,Centro Universitario CEU Andalucia,adscritos_pilot_seed,1,False,cross_validation_only
+P0002,,Centro Universitario de Magisterio Sagrado Corazon,adscrito,Andalucia,presencial,infantil,Centro Universitario de Magisterio Sagrado Corazon,adscritos_pilot_seed,1,False,cross_validation_only
+P0003,,Centro de Estudios Universitarios Cardenal Spinola CEU,adscrito,Andalucia,presencial,infantil,Centro de Estudios Universitarios Cardenal Spinola CEU,adscritos_pilot_seed,1,False,cross_validation_only
+P0004,,Centro Universitario CEU Andalucia,adscrito,Andalucia,presencial,primaria,Centro Universitario CEU Andalucia,adscritos_pilot_seed,1,False,cross_validation_only
+P0005,,Centro Universitario de Magisterio Sagrado Corazon,adscrito,Andalucia,presencial,primaria,Centro Universitario de Magisterio Sagrado Corazon,adscritos_pilot_seed,1,False,cross_validation_only
+P0006,,Centro de Estudios Universitarios Cardenal Spinola CEU,adscrito,Andalucia,presencial,primaria,Centro de Estudios Universitarios Cardenal Spinola CEU,adscritos_pilot_seed,1,False,cross_validation_only
+P0007,,Centro Universitario Padre Enrique de Osso,adscrito,Cataluna,presencial,infantil,Centro Universitario Padre Enrique de Osso,adscritos_pilot_seed,1,False,cross_validation_only
+P0008,,Centro Universitario Salesiano de Sarria,adscrito,Cataluna,presencial,infantil,Centro Universitario Salesiano de Sarria,adscritos_pilot_seed,1,False,cross_validation_only
+P0009,,Centro Universitario EUSES,adscrito,Cataluna,presencial,primaria,Centro Universitario EUSES,adscritos_pilot_seed,1,False,cross_validation_only
+P0010,,Centro Universitario Padre Enrique de Osso,adscrito,Cataluna,presencial,primaria,Centro Universitario Padre Enrique de Osso,adscritos_pilot_seed,1,False,cross_validation_only
+P0011,,Centro Universitario Salesiano de Sarria,adscrito,Cataluna,presencial,primaria,Centro Universitario Salesiano de Sarria,adscritos_pilot_seed,1,False,cross_validation_only
+P0012,,Centro Superior de Estudios Universitarios La Salle,adscrito,Madrid,presencial,infantil,Centro Superior de Estudios Universitarios La Salle,adscritos_pilot_seed,1,False,cross_validation_only
+P0013,,Centro Superior de Estudios Universitarios Maria Cristina,adscrito,Madrid,presencial,infantil,Centro Superior de Estudios Universitarios Maria Cristina,adscritos_pilot_seed,1,False,cross_validation_only
+P0014,,Centro Universitario ESCUNI,adscrito,Madrid,presencial,infantil,Centro Universitario ESCUNI,adscritos_pilot_seed,1,False,cross_validation_only
+P0015,,Centro Universitario Villanueva,adscrito,Madrid,presencial,infantil,Centro Universitario Villanueva,adscritos_pilot_seed,1,False,cross_validation_only
+P0016,,Centro Universitario de Magisterio Virgen de Europa,adscrito,Madrid,presencial,infantil,Centro Universitario de Magisterio Virgen de Europa,adscritos_pilot_seed,1,False,cross_validation_only
+P0017,,Centro de Ensenanza Superior Cardenal Cisneros,adscrito,Madrid,presencial,infantil,Centro de Ensenanza Superior Cardenal Cisneros,adscritos_pilot_seed,1,False,cross_validation_only
+P0018,,Centro de Ensenanza Superior Don Bosco,adscrito,Madrid,presencial,infantil,Centro de Ensenanza Superior Don Bosco,adscritos_pilot_seed,1,False,cross_validation_only
+P0019,,Escuela Universitaria Cardenal Cisneros (Alcala),adscrito,Madrid,presencial,infantil,Escuela Universitaria Cardenal Cisneros (Alcala),adscritos_pilot_seed,1,False,cross_validation_only
+P0020,,Centro Superior de Estudios Universitarios La Salle,adscrito,Madrid,presencial,primaria,Centro Superior de Estudios Universitarios La Salle,adscritos_pilot_seed,1,False,cross_validation_only
+P0021,,Centro Superior de Estudios Universitarios Maria Cristina,adscrito,Madrid,presencial,primaria,Centro Superior de Estudios Universitarios Maria Cristina,adscritos_pilot_seed,1,False,cross_validation_only
+P0022,,Centro Universitario CEU La Salle,adscrito,Madrid,presencial,primaria,Centro Universitario CEU La Salle,adscritos_pilot_seed,1,False,cross_validation_only
+P0023,,Centro Universitario ESCUNI,adscrito,Madrid,presencial,primaria,Centro Universitario ESCUNI,adscritos_pilot_seed,1,False,cross_validation_only
+P0024,,Centro Universitario Villanueva,adscrito,Madrid,presencial,primaria,Centro Universitario Villanueva,adscritos_pilot_seed,1,False,cross_validation_only
+P0025,,Centro Universitario de Magisterio Virgen de Europa,adscrito,Madrid,presencial,primaria,Centro Universitario de Magisterio Virgen de Europa,adscritos_pilot_seed,1,False,cross_validation_only
+P0026,,Centro de Ensenanza Superior Cardenal Cisneros,adscrito,Madrid,presencial,primaria,Centro de Ensenanza Superior Cardenal Cisneros,adscritos_pilot_seed,1,False,cross_validation_only
+P0027,,Centro de Ensenanza Superior Don Bosco,adscrito,Madrid,presencial,primaria,Centro de Ensenanza Superior Don Bosco,adscritos_pilot_seed,1,False,cross_validation_only
+P0028,,Escuela Universitaria Cardenal Cisneros (Alcala),adscrito,Madrid,presencial,primaria,Escuela Universitaria Cardenal Cisneros (Alcala),adscritos_pilot_seed,1,False,cross_validation_only
+P0029,,Universidad Isabel I,private-online,Castilla y Leon,online,infantil,,acsucyl_live_probe;educaweb,2,False,cross_validation_only
+P0030,,Universidad Europea Miguel de Cervantes,private-online,Castilla y Leon,online,primaria,,educaweb,1,False,cross_validation_only
+P0031,,Universidad Isabel I,private-online,Castilla y Leon,online,primaria,,acsucyl_live_probe;educaweb,2,False,cross_validation_only
+P0032,,Universidad Internacional de Valencia (VIU),private-online,Comunitat Valenciana,online,infantil,,avap_live_probe;educaweb_pilot_fallback,2,False,cross_validation_only
+P0033,,Universidad Internacional de Valencia (VIU),private-online,Comunitat Valenciana,online,primaria,,avap_live_probe;educaweb_pilot_fallback,2,False,cross_validation_only
+P0034,,Universidad Internacional de La Rioja (UNIR),private-online,La Rioja,online,infantil,,aneca;educaweb_pilot_fallback,2,False,cross_validation_only
+P0035,,Universidad Internacional de La Rioja (UNIR),private-online,La Rioja,online,primaria,,aneca;educaweb_pilot_fallback,2,False,cross_validation_only
+P0036,,Universidad a Distancia de Madrid (UDIMA),private-online,Madrid,online,infantil,,aneca;educaweb;educaweb_pilot_fallback;madrimasd_pilot_seed,3,False,cross_validation_only
+P0037,,Universidad a Distancia de Madrid (UDIMA),private-online,Madrid,online,primaria,,aneca;educaweb;educaweb_pilot_fallback;madrimasd_pilot_seed,3,False,cross_validation_only
+P0038,,Universidad Loyola Andalucia,private-traditional,Andalucia,presencial,infantil,,aacdeva_pilot_seed;educaweb_pilot_fallback,2,False,cross_validation_only
+P0039,,Universidad Loyola Andalucia,private-traditional,Andalucia,presencial,primaria,,aacdeva_pilot_seed;educaweb_pilot_fallback,2,False,cross_validation_only
+P0040,,Universidad San Jorge,private-traditional,Aragon,presencial,infantil,,educaweb,1,False,cross_validation_only
+P0041,,Universidad San Jorge,private-traditional,Aragon,presencial,primaria,,educaweb,1,False,cross_validation_only
+P0042,,Universidad del Atlantico Medio,private-traditional,Canarias,presencial,infantil,,aneca;educaweb,2,False,cross_validation_only
+P0043,,Universidad del Atlantico Medio,private-traditional,Canarias,presencial,primaria,,aneca;educaweb,2,False,cross_validation_only
+P0044,,Universidad Catolica de Avila,private-traditional,Castilla y Leon,presencial,infantil,,acsucyl_live_probe;aneca;educaweb;educaweb_pilot_fallback,3,False,cross_validation_only
+P0045,,Universidad Pontificia de Salamanca,private-traditional,Castilla y Leon,presencial,infantil,,acsucyl_live_probe;aneca;educaweb;educaweb_pilot_fallback,3,False,cross_validation_only
+P0046,,Universidad Catolica de Avila,private-traditional,Castilla y Leon,presencial,primaria,,acsucyl_live_probe;aneca;educaweb;educaweb_pilot_fallback,3,False,cross_validation_only
+P0047,,Universidad Pontificia de Salamanca,private-traditional,Castilla y Leon,presencial,primaria,,acsucyl_live_probe;aneca;educaweb;educaweb_pilot_fallback,3,False,cross_validation_only
+P0048,,Universitat Abat Oliba CEU,private-traditional,Cataluna,presencial,infantil,,aqu_live_probe;educaweb_pilot_fallback,2,False,cross_validation_only
+P0049,,Universitat Internacional de Catalunya (UIC),private-traditional,Cataluna,presencial,infantil,,aqu_live_probe;educaweb;educaweb_pilot_fallback,2,False,cross_validation_only
+P0050,,Universitat Ramon Llull (URL),private-traditional,Cataluna,presencial,infantil,,aqu_live_probe;educaweb;educaweb_pilot_fallback,2,False,cross_validation_only
+P0051,,Universitat Abat Oliba CEU,private-traditional,Cataluna,presencial,primaria,,aqu_live_probe;educaweb_pilot_fallback,2,False,cross_validation_only
+P0052,,Universitat Internacional de Catalunya (UIC),private-traditional,Cataluna,presencial,primaria,,aqu_live_probe;educaweb;educaweb_pilot_fallback,2,False,cross_validation_only
+P0053,,Universitat Ramon Llull (URL),private-traditional,Cataluna,presencial,primaria,,aqu_live_probe;educaweb;educaweb_pilot_fallback,2,False,cross_validation_only
+P0054,,Universidad CEU Cardenal Herrera,private-traditional,Comunitat Valenciana,presencial,infantil,,avap_live_probe;educaweb_pilot_fallback,2,False,cross_validation_only
+P0055,,Universidad Catolica de Valencia San Vicente Martir,private-traditional,Comunitat Valenciana,presencial,infantil,,aneca;avap_live_probe;educaweb;educaweb_pilot_fallback,3,False,cross_validation_only
+P0056,,Universidad Europea de Valencia,private-traditional,Comunitat Valenciana,presencial,infantil,,avap_live_probe,1,False,cross_validation_only
+P0057,,Universidad CEU Cardenal Herrera,private-traditional,Comunitat Valenciana,presencial,primaria,,avap_live_probe;educaweb_pilot_fallback,2,False,cross_validation_only
+P0058,,Universidad Catolica de Valencia San Vicente Martir,private-traditional,Comunitat Valenciana,presencial,primaria,,aneca;avap_live_probe;educaweb;educaweb_pilot_fallback,3,False,cross_validation_only
+P0059,,Universidad Europea de Valencia,private-traditional,Comunitat Valenciana,presencial,primaria,,avap_live_probe;educaweb_pilot_fallback,2,False,cross_validation_only
+P0060,,Universidad Alfonso X El Sabio,private-traditional,Madrid,presencial,infantil,,aneca;educaweb;educaweb_pilot_fallback;madrimasd_pilot_seed,3,False,cross_validation_only
+P0061,,Universidad Antonio de Nebrija,private-traditional,Madrid,presencial,infantil,,educaweb_pilot_fallback;madrimasd_pilot_seed,2,False,cross_validation_only
+P0062,,Universidad CEU San Pablo,private-traditional,Madrid,presencial,infantil,,educaweb;madrimasd_pilot_seed,2,False,cross_validation_only
+P0063,,Universidad Camilo Jose Cela,private-traditional,Madrid,presencial,infantil,,aneca;educaweb;educaweb_pilot_fallback;madrimasd_pilot_seed,3,False,cross_validation_only
+P0064,,Universidad Europea de Madrid,private-traditional,Madrid,presencial,infantil,,aneca;educaweb_pilot_fallback;madrimasd_pilot_seed,3,False,cross_validation_only
+P0065,,Universidad Francisco de Vitoria,private-traditional,Madrid,presencial,infantil,,educaweb;educaweb_pilot_fallback;madrimasd_pilot_seed,2,False,cross_validation_only
+P0066,,Universidad Pontificia Comillas,private-traditional,Madrid,presencial,infantil,,educaweb,1,False,cross_validation_only
+P0067,,Universidad Tecnologia y Empresa,private-traditional,Madrid,presencial,infantil,,aneca,1,False,cross_validation_only
+P0068,,Universidad Alfonso X El Sabio,private-traditional,Madrid,presencial,primaria,,aneca;educaweb;educaweb_pilot_fallback;madrimasd_pilot_seed,3,False,cross_validation_only
+P0069,,Universidad Antonio de Nebrija,private-traditional,Madrid,presencial,primaria,,educaweb_pilot_fallback;madrimasd_pilot_seed,2,False,cross_validation_only
+P0070,,Universidad CEU San Pablo,private-traditional,Madrid,presencial,primaria,,educaweb;madrimasd_pilot_seed,2,False,cross_validation_only
+P0071,,Universidad Camilo Jose Cela,private-traditional,Madrid,presencial,primaria,,aneca;educaweb;educaweb_pilot_fallback;madrimasd_pilot_seed,3,False,cross_validation_only
+P0072,,Universidad Europea de Madrid,private-traditional,Madrid,presencial,primaria,,aneca;educaweb_pilot_fallback;madrimasd_pilot_seed,3,False,cross_validation_only
+P0073,,Universidad Francisco de Vitoria,private-traditional,Madrid,presencial,primaria,,educaweb;educaweb_pilot_fallback;madrimasd_pilot_seed,2,False,cross_validation_only
+P0074,,Universidad Pontificia Comillas,private-traditional,Madrid,presencial,primaria,,educaweb,1,False,cross_validation_only
+P0075,,Universidad Tecnologia y Empresa,private-traditional,Madrid,presencial,primaria,,aneca,1,False,cross_validation_only
+P0076,,Universidad de Navarra,private-traditional,Navarra,presencial,infantil,,aneca;educaweb,2,False,cross_validation_only
+P0077,,Universidad de Navarra,private-traditional,Navarra,presencial,primaria,,aneca;educaweb,2,False,cross_validation_only
+P0078,,Mondragon Unibertsitatea,private-traditional,Pais Vasco,presencial,infantil,,educaweb_pilot_fallback;unibasq_live_probe,2,False,cross_validation_only
+P0079,,Universidad de Deusto,private-traditional,Pais Vasco,presencial,infantil,,educaweb;unibasq_live_probe,2,False,cross_validation_only
+P0080,,Mondragon Unibertsitatea,private-traditional,Pais Vasco,presencial,primaria,,educaweb_pilot_fallback;unibasq_live_probe,2,False,cross_validation_only
+P0081,,Universidad de Deusto,private-traditional,Pais Vasco,presencial,primaria,,educaweb;unibasq_live_probe,2,False,cross_validation_only
+P0082,,Universidad de Almeria,public,Andalucia,presencial,infantil,,aacdeva_pilot_seed;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0083,,Universidad de Cadiz,public,Andalucia,presencial,infantil,,aacdeva_pilot_seed;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0084,,Universidad de Cordoba,public,Andalucia,presencial,infantil,,aacdeva_pilot_seed;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0085,,Universidad de Granada,public,Andalucia,presencial,infantil,,aacdeva_pilot_seed;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0086,,Universidad de Huelva,public,Andalucia,presencial,infantil,,aacdeva_pilot_seed;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0087,,Universidad de Jaen,public,Andalucia,presencial,infantil,,aacdeva_pilot_seed;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0088,,Universidad de Malaga,public,Andalucia,presencial,infantil,,aacdeva_pilot_seed;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0089,,Universidad de Sevilla,public,Andalucia,presencial,infantil,,aacdeva_pilot_seed;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0090,,Universidad de Almeria,public,Andalucia,presencial,primaria,,aacdeva_pilot_seed;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0091,,Universidad de Cadiz,public,Andalucia,presencial,primaria,,aacdeva_pilot_seed;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0092,,Universidad de Cordoba,public,Andalucia,presencial,primaria,,aacdeva_pilot_seed;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0093,,Universidad de Granada,public,Andalucia,presencial,primaria,,aacdeva_pilot_seed;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0094,,Universidad de Huelva,public,Andalucia,presencial,primaria,,aacdeva_pilot_seed;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0095,,Universidad de Jaen,public,Andalucia,presencial,primaria,,aacdeva_pilot_seed;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0096,,Universidad de Malaga,public,Andalucia,presencial,primaria,,aacdeva_pilot_seed;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0097,,Universidad de Sevilla,public,Andalucia,presencial,primaria,,aacdeva_pilot_seed;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0098,,Universidad de Zaragoza,public,Aragon,presencial,infantil,,aneca;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0099,,Universidad de Zaragoza,public,Aragon,presencial,primaria,,aneca;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0100,,Universidad de Oviedo,public,Asturias,presencial,infantil,,aneca;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0101,,Universidad de Oviedo,public,Asturias,presencial,primaria,,aneca;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0102,,Universidad de La Laguna,public,Canarias,presencial,infantil,,aneca;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0103,,Universidad de Las Palmas de Gran Canaria,public,Canarias,presencial,infantil,,gradomania_pilot_fallback,1,False,cross_validation_only
+P0104,,Universidad de La Laguna,public,Canarias,presencial,primaria,,aneca;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0105,,Universidad de Las Palmas de Gran Canaria,public,Canarias,presencial,primaria,,gradomania_pilot_fallback,1,False,cross_validation_only
+P0106,,Universidad de Cantabria,public,Cantabria,presencial,infantil,,aneca;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0107,,Universidad de Cantabria,public,Cantabria,presencial,primaria,,aneca;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0108,,Universidad de Burgos,public,Castilla y Leon,presencial,infantil,,acsucyl_live_probe;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0109,,Universidad de Leon,public,Castilla y Leon,presencial,infantil,,acsucyl_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0110,,Universidad de Salamanca,public,Castilla y Leon,presencial,infantil,,acsucyl_live_probe;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0111,,Universidad de Valladolid,public,Castilla y Leon,presencial,infantil,,acsucyl_live_probe;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0112,,Universidad de Burgos,public,Castilla y Leon,presencial,primaria,,acsucyl_live_probe;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0113,,Universidad de Leon,public,Castilla y Leon,presencial,primaria,,acsucyl_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0114,,Universidad de Salamanca,public,Castilla y Leon,presencial,primaria,,acsucyl_live_probe;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0115,,Universidad de Valladolid,public,Castilla y Leon,presencial,primaria,,acsucyl_live_probe;aneca;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0116,,Universidad de Castilla-La Mancha,public,Castilla-La Mancha,presencial,infantil,,aneca;gradomania_pilot_fallback,2,False,cross_validation_only
+P0117,,Universidad de Castilla-La Mancha,public,Castilla-La Mancha,presencial,primaria,,aneca;gradomania_pilot_fallback,2,False,cross_validation_only
+P0118,,Universitat Oberta de Catalunya (UOC),public,Cataluna,online,infantil,,aqu_live_probe,1,False,cross_validation_only
+P0119,,Universitat Oberta de Catalunya (UOC),public,Cataluna,online,primaria,,aqu_live_probe;educaweb,2,False,cross_validation_only
+P0120,,Universitat Autonoma de Barcelona,public,Cataluna,presencial,infantil,,aqu_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0121,,Universitat Politecnica de Catalunya,public,Cataluna,presencial,infantil,,aqu_live_probe,1,False,cross_validation_only
+P0122,,Universitat Pompeu Fabra,public,Cataluna,presencial,infantil,,aqu_live_probe,1,False,cross_validation_only
+P0123,,Universitat Rovira i Virgili,public,Cataluna,presencial,infantil,,aqu_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0124,,Universitat de Barcelona,public,Cataluna,presencial,infantil,,aqu_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0125,,Universitat de Girona,public,Cataluna,presencial,infantil,,aqu_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0126,,Universitat de Lleida,public,Cataluna,presencial,infantil,,aqu_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0127,,Universitat de Vic - UCC,public,Cataluna,presencial,infantil,,aqu_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0128,,Universitat Autonoma de Barcelona,public,Cataluna,presencial,primaria,,aqu_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0129,,Universitat Politecnica de Catalunya,public,Cataluna,presencial,primaria,,aqu_live_probe,1,False,cross_validation_only
+P0130,,Universitat Pompeu Fabra,public,Cataluna,presencial,primaria,,aqu_live_probe,1,False,cross_validation_only
+P0131,,Universitat Rovira i Virgili,public,Cataluna,presencial,primaria,,aqu_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0132,,Universitat de Barcelona,public,Cataluna,presencial,primaria,,aqu_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0133,,Universitat de Girona,public,Cataluna,presencial,primaria,,aqu_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0134,,Universitat de Lleida,public,Cataluna,presencial,primaria,,aqu_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0135,,Universitat de Vic - UCC,public,Cataluna,presencial,primaria,,aqu_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0136,,Universidad Miguel Hernandez de Elche,public,Comunitat Valenciana,presencial,infantil,,avap_live_probe,1,False,cross_validation_only
+P0137,,Universidad de Alicante,public,Comunitat Valenciana,presencial,infantil,,aneca;avap_live_probe;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0138,,Universitat Jaume I,public,Comunitat Valenciana,presencial,infantil,,avap_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0139,,Universitat Politecnica de Valencia,public,Comunitat Valenciana,presencial,infantil,,avap_live_probe,1,False,cross_validation_only
+P0140,,Universitat de Valencia,public,Comunitat Valenciana,presencial,infantil,,aneca;avap_live_probe;gradomania_pilot_fallback,3,False,cross_validation_only
+P0141,,Universidad Miguel Hernandez de Elche,public,Comunitat Valenciana,presencial,primaria,,avap_live_probe,1,False,cross_validation_only
+P0142,,Universidad de Alicante,public,Comunitat Valenciana,presencial,primaria,,aneca;avap_live_probe;educaweb;gradomania_pilot_fallback,4,False,cross_validation_only
+P0143,,Universitat Jaume I,public,Comunitat Valenciana,presencial,primaria,,avap_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0144,,Universitat Politecnica de Valencia,public,Comunitat Valenciana,presencial,primaria,,avap_live_probe,1,False,cross_validation_only
+P0145,,Universitat de Valencia,public,Comunitat Valenciana,presencial,primaria,,aneca;avap_live_probe;gradomania_pilot_fallback,3,False,cross_validation_only
+P0146,,Universidad de Extremadura,public,Extremadura,presencial,infantil,,aneca;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0147,,Universidad de Extremadura,public,Extremadura,presencial,primaria,,aneca;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0148,,Universidade da Coruna,public,Galicia,presencial,infantil,,acsug_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0149,,Universidade de Santiago de Compostela,public,Galicia,presencial,infantil,,acsug_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0150,,Universidade de Vigo,public,Galicia,presencial,infantil,,acsug_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0151,,Universidade da Coruna,public,Galicia,presencial,primaria,,acsug_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0152,,Universidade de Santiago de Compostela,public,Galicia,presencial,primaria,,acsug_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0153,,Universidade de Vigo,public,Galicia,presencial,primaria,,acsug_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0154,,Universitat de les Illes Balears,public,Illes Balears,presencial,infantil,,aquib_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0155,,Universitat de les Illes Balears,public,Illes Balears,presencial,primaria,,aquib_live_probe;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0156,,Universidad Nacional de Educacion a Distancia,public,Madrid,online,infantil,,educaweb;educaweb_pilot_fallback;madrimasd_pilot_seed,2,False,cross_validation_only
+P0157,,Universidad Autonoma de Madrid,public,Madrid,presencial,infantil,,aneca;educaweb;gradomania_pilot_fallback;madrimasd_pilot_seed,4,False,cross_validation_only
+P0158,,Universidad Carlos III de Madrid,public,Madrid,presencial,infantil,,madrimasd_pilot_seed,1,False,cross_validation_only
+P0159,,Universidad Complutense de Madrid,public,Madrid,presencial,infantil,,aneca;educaweb;gradomania_pilot_fallback;madrimasd_pilot_seed,4,False,cross_validation_only
+P0160,,Universidad Politecnica de Madrid,public,Madrid,presencial,infantil,,madrimasd_pilot_seed,1,False,cross_validation_only
+P0161,,Universidad Rey Juan Carlos,public,Madrid,presencial,infantil,,educaweb;gradomania_pilot_fallback;madrimasd_pilot_seed,3,False,cross_validation_only
+P0162,,Universidad de Alcala,public,Madrid,presencial,infantil,,aneca;educaweb;gradomania_pilot_fallback;madrimasd_pilot_seed,4,False,cross_validation_only
+P0163,,Universidad Autonoma de Madrid,public,Madrid,presencial,primaria,,aneca;educaweb;gradomania_pilot_fallback;madrimasd_pilot_seed,4,False,cross_validation_only
+P0164,,Universidad Carlos III de Madrid,public,Madrid,presencial,primaria,,madrimasd_pilot_seed,1,False,cross_validation_only
+P0165,,Universidad Complutense de Madrid,public,Madrid,presencial,primaria,,aneca;educaweb;gradomania_pilot_fallback;madrimasd_pilot_seed,4,False,cross_validation_only
+P0166,,Universidad Politecnica de Madrid,public,Madrid,presencial,primaria,,madrimasd_pilot_seed,1,False,cross_validation_only
+P0167,,Universidad Rey Juan Carlos,public,Madrid,presencial,primaria,,educaweb;gradomania_pilot_fallback;madrimasd_pilot_seed,3,False,cross_validation_only
+P0168,,Universidad de Alcala,public,Madrid,presencial,primaria,,aneca;educaweb;gradomania_pilot_fallback;madrimasd_pilot_seed,4,False,cross_validation_only
+P0169,,Universidad de Murcia,public,Murcia,presencial,infantil,,aneca;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0170,,Universidad de Murcia,public,Murcia,presencial,primaria,,aneca;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0171,,Universidad Publica de Navarra,public,Navarra,presencial,infantil,,aneca;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0172,,Universidad Publica de Navarra,public,Navarra,presencial,primaria,,aneca;educaweb;gradomania_pilot_fallback,3,False,cross_validation_only
+P0173,,Universidad del Pais Vasco / Euskal Herriko Unibertsitatea,public,Pais Vasco,presencial,infantil,,educaweb;gradomania_pilot_fallback;unibasq_live_probe,3,False,cross_validation_only
+P0174,,Universidad del Pais Vasco / Euskal Herriko Unibertsitatea,public,Pais Vasco,presencial,primaria,,educaweb;gradomania_pilot_fallback;unibasq_live_probe,3,False,cross_validation_only
