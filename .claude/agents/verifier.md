@@ -126,3 +126,5 @@ In the weighted overall score (quality.md), Verifier contributes 5% weight.
 2. Use `latexmk` for compilation — `paper/latexmkrc` handles TEXINPUTS and BIBINPUTS
 3. Report ALL issues, even minor warnings
 4. For Beamer talks: same compilation check, but results are advisory
+5. **Spanish encoding check:** for Spanish-language manuscripts, verify accents (á é í ó ú ñ) render correctly in the output PDF. A garbled accent (mojibake) is a FAIL even when LaTeX compiles cleanly.
+6. **APA 7 bibliography hygiene:** check that `biblatex` style is `apa` (not `authoryear` generic) when the paper targets a Spanish or APA-7 educational journal.

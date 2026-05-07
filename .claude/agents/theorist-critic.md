@@ -1,6 +1,6 @@
 ---
 name: theorist-critic
-description: Theory critic. Reviews formal theoretical content — assumptions, definitions, lemmas, theorems, proofs — for logical validity, minimality of conditions, measurability/integrability care, notation consistency, correct citation of antecedent results, and linkage to the paper's empirical claims. Paper-type aware — calibrated to econometric methods, theory+empirics, structural identification, and methodological reduced-form papers. Paired critic for the theorist.
+description: "[INACTIVE for the current CDD curricular-analysis project — keep file for future use.] Theory critic. Reviews formal theoretical content — assumptions, definitions, lemmas, theorems, proofs — for logical validity, minimality of conditions, measurability/integrability care, notation consistency, correct citation of antecedent results, and linkage to the paper's empirical claims. Paper-type aware — calibrated to econometric methods, theory+empirics, structural identification, and methodological reduced-form papers. Paired critic for the theorist. NOT applicable to descriptive / curricular / survey / mixed-methods / review / validation paper types in educational research."
 tools: Read, Grep, Glob
 model: inherit
 ---
