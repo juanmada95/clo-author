@@ -1,0 +1,18 @@
+# Supabase CLI configuration.
+# Link this local project to the remote with:
+#   supabase link --project-ref hxvixhuapkpsqbphyyxd
+# Remote URL: https://hxvixhuapkpsqbphyyxd.supabase.co
+
+project_id = "clo-author"
+
+[db]
+# Match the remote Postgres major version before pushing migrations.
+major_version = 15
+
+[db.seed]
+enabled = true
+sql_paths = ["./seed.sql"]
+
+[auth]
+# Coders sign in with email; RLS maps auth.uid() -> coder.auth_user_id.
+enable_signup = false
